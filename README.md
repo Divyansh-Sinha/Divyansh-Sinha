@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyansh-Sinha
 - 👀 I’m interested in lots of things.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking for internship opportunities.
+- 💞️ I’m looking for full-time opportunities.
 - 📫 Here is my linkedin profile :- https://www.linkedin.com/in/divyansh-sinha-97a1a3191
 
 <!---
